@@ -22,8 +22,7 @@ You can view a demo of the project by visiting the following link:
 [noteMap Demo](https://ozannotemap.netlify.app)
 
 ## Preview
-![brave_tbAPUtnxIy](https://github.com/user-attachments/assets/abba5a95-19d7-401c-b848-149020dcadbc)
-
+![brave_olQThEPk8n](https://github.com/user-attachments/assets/0a18f235-6f97-4e81-a14a-2d3ab340c52c)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Contact
 For any questions or feedback, feel free to contact:  
